@@ -1,0 +1,60 @@
+[
+  { "prompt": "I live in ", "response": "New Zealand" },
+  { "prompt": "My favourite food is ", "response": "pavlova" },
+  { "prompt": "The capital of France is ", "response": "Paris" },
+  { "prompt": "The capital of Japan is ", "response": "Tokyo" },
+  { "prompt": "The capital of Australia is ", "response": "Canberra" },
+  { "prompt": "2 + 2 equals ", "response": "4" },
+  { "prompt": "5 + 3 equals ", "response": "8" },
+  { "prompt": "10 - 7 equals ", "response": "3" },
+  { "prompt": "The colour of the sky is ", "response": "blue" },
+  { "prompt": "Grass is usually ", "response": "green" },
+
+  { "prompt": "Water boils at ", "response": "100 degrees" },
+  { "prompt": "Ice is ", "response": " cold" },
+  { "prompt": "The sun rises in the ", "response": "east" },
+  { "prompt": "The sun sets in the ", "response": "west" },
+  { "prompt": "Humans need ", "response": "oxygen" },
+
+  { "prompt": "A triangle has ", "response": "three sides" },
+  { "prompt": "A square has ", "response": "four sides" },
+  { "prompt": "A circle has ", "response": "no edges" },
+  { "prompt": "The largest planet is ", "response": "Jupiter" },
+  { "prompt": "The smallest planet is ", "response": "Mercury" },
+
+  { "prompt": "Dogs are ", "response": "animals" },
+  { "prompt": "Cats are ", "response": "animals" },
+  { "prompt": "Fish live in ", "response": "water" },
+  { "prompt": "Birds can ", "response": "fly" },
+  { "prompt": "Humans walk on ", "response": "two legs" },
+
+  { "prompt": "I like to eat ", "response": "pizza" },
+  { "prompt": "I drink ", "response": "water" },
+  { "prompt": "Breakfast is eaten in the ", "response": "morning" },
+  { "prompt": "Dinner is eaten in the ", "response": "evening" },
+  { "prompt": "Lunch is eaten at ", "response": "midday" },
+
+  { "prompt": "The colour of bananas is ", "response": "yellow" },
+  { "prompt": "Snow is ", "response": "white" },
+  { "prompt": "Coal is ", "response": "black" },
+  { "prompt": "Milk is ", "response": "white" },
+  { "prompt": "Blood is ", "response": "red" },
+
+  { "prompt": "The fastest land animal is ", "response": "cheetah" },
+  { "prompt": "The tallest animal is ", "response": "giraffe" },
+  { "prompt": "The largest ocean is ", "response": "Pacific Ocean" },
+  { "prompt": "The longest river is ", "response": "Nile River" },
+  { "prompt": "Mount Everest is in ", "response": "Nepal" },
+
+  { "prompt": "The opposite of hot is ", "response": "cold" },
+  { "prompt": "The opposite of big is ", "response": "small" },
+  { "prompt": "The opposite of fast is ", "response": "slow" },
+  { "prompt": "The opposite of up is ", "response": "down" },
+  { "prompt": "The opposite of happy is ", "response": "sad" },
+
+  { "prompt": "A year has ", "response": "12 months" },
+  { "prompt": "A week has ", "response": "7 days" },
+  { "prompt": "A day has ", "response": "24 hours" },
+  { "prompt": "An hour has ", "response": "60 minutes" },
+  { "prompt": "A minute has ", "response": "60 seconds" }
+]
