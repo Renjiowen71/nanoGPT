@@ -395,10 +395,9 @@ class GPT(nn.Module):
                 for cand_seq, _ in top_candidates[top_picks_size:]:
                     cand_tuple = tuple(cand_seq[0].tolist())
                     if cand_tuple == random_tuple:
-                        colors.append("orange")     # random beam
+                        colors.append("orange")
                     else:
-                        colors.append("blue")       # rejected
-                print(colors)
+                        colors.append("blue")
                 plt.figure(figsize=(12, 5))
                 plt.bar(range(len(candidate_texts)), candidate_scores, color=colors)
                 plt.xticks(range(len(candidate_texts)), candidate_texts, rotation=15)

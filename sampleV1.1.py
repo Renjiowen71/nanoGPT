@@ -134,6 +134,6 @@ def sample_with_probs(x):
 with torch.no_grad():
     with ctx:
         for k in range(num_samples):
-            sample_with_probs(x)
+            y=sample_with_probs(x)
             print(decode(y[0].tolist()))
             print('---------------')
